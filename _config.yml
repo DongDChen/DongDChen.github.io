@@ -23,7 +23,7 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "Dongdong Chen"
-  pronouns         : "He"
+  pronouns         : # none
   bio              : "Ph.D. Candidate @ MIC LAB"
   location         : "Shanghai, China"
   employer         : "Shanghai Jiao Tong University"
