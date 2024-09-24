@@ -11,12 +11,12 @@ You can also find my articles on [my Google Scholar profile](https://scholar.goo
 ### Journal Papers
 
 > <b><a href="https://ieeexplore.ieee.org/document/10531005" target="_blank">Hierarchical Encoding and Fusion of Brain Functions for Depression Subtype Classification</a></b> <br>
-> Mengjun Liu, Huifeng Zhang, Mianxin Liu, <b>Dongdong Chen</b>, Rubai Zhou, Wenxian Lu, Lichi Zhang, Dinggang Shen, Qian Wang, Daihui Peng. <br>
+> Mengjun Liu\*, Huifeng Zhang\*, Mianxin Liu, <b>Dongdong Chen</b>, Rubai Zhou, Wenxian Lu, Lichi Zhang, Dinggang Shen, Qian Wang, Daihui Peng. <br>
 > <em>IEEE Transactions on Affective Computing</em>, 2024 <br>
 
 
 > <b><a href="https://ieeexplore.ieee.org/abstract/document/10440630" target="_blank">Randomizing Human Brain Function Representation for Brain Disease Diagnosisn</a></b> <br>
-> Mengjun Liu, Huifeng Zhang, Mianxin Liu, <b>Dongdong Chen</b>, Zixu Zhuang, Xin Wang, Lichi Zhang, Daihui Peng, Qian Wang. <br>
+> Mengjun Liu\*, Huifeng Zhang\*, Mianxin Liu, <b>Dongdong Chen</b>, Zixu Zhuang, Xin Wang, Lichi Zhang, Daihui Peng, Qian Wang. <br>
 > <em>IEEE Transactions on Medical Imaging</em>, 2024 <br>
 
 > <b><a href="https://www.sciencedirect.com/science/article/pii/S003132032200721X" target="_blank">Position-aware and structure embedding networks for deep graph matching</a></b> <br>
@@ -31,10 +31,23 @@ You can also find my articles on [my Google Scholar profile](https://scholar.goo
 > <b>Dongdong Chen</b>, Xingchen Guo, Jianjia Wang, Jiatong Liu, Zhihong Zhang, Edwin R Hancock. <br>
 > <em>Pattern recognition</em>, 2021 <br>
 
+> <b><a href="https://http://publications.article4sub.com/id/eprint/2616/" target="_blank">Cluster Expansion Analysis for Dynamic Networks</a></b> <br>
+> Jianjia Wang, Zhihong Zhang, <b>Dongdong Chen</b>, Edwin R Hancock. <br>
+> <em>New Ideas Concerning Science and Technology</em>, 2021 <br>
+
 
 > <b><a href="https://ieeexplore.ieee.org/abstract/document/9222474" target="_blank">Graph motif entropy for understanding time-evolving networks</a></b> <br>
-> Zhihong Zhang, Dongdong Chen, Lu Bai, Jianjia Wang, Edwin R Hancock. <br>
+> Zhihong Zhang, <b>Dongdong Chen</b>, Lu Bai, Jianjia Wang, Edwin R Hancock. (first student author) <br>
 > <em>IEEE Transactions on Neural Networks and Learning Systems</em>, 2020 <br>
+
+
+> <b><a href="https://www.sciencedirect.com/science/article/pii/S0031320319300354" target="_blank">Depth-based subgraph convolutional auto-encoder for network representation learning</a></b> <br>
+> Zhihong Zhang, <b>Dongdong Chen</b>, Zeli Wang, Heng Li, Lu Bai, Edwin R Hancock. (first student author) <br>
+> <em>Pattern Recognition</em>, 2019 <br>
+
+> <b><a href="https://www.sciencedirect.com/science/article/pii/S0031320318303820" target="_blank">Quantum-based subgraph convolutional neural networks</a></b> <br>
+> Zhihong Zhang, <b>Dongdong Chen</b>, Jianjia Wang, Lu Bai, Edwin R Hancock. (first student author) <br>
+> <em>Pattern Recognition</em>, 2019 <br>
 
 
 ### Conference Papers	
@@ -66,6 +79,10 @@ You can also find my articles on [my Google Scholar profile](https://scholar.goo
 > Jiatong Liu, Changbin Pan, <b>Dongdong Chen</b>, WeiPing Lin, Shangyuan Feng, Sufang Qiu, Beizhan Wang, KunHong Liu. <br>
 > <em>IEEE International Conference on Bioinformatics and Biomedicine</em>(<i><b>BIBM 2021</b></i>), Houston, USA. <br>
 
+
+> <b><a href="https://dl.acm.org/doi/abs/10.1145/3448734.3450483" target="_blank">FES-RF: A Feature Ensemble Selection Based Random Forest Method For Accurate Cancer Screening</a></b> <br>
+> Jiatong Liu, Changbin Pan, <b>Dongdong Chen</b>, WeiPing Lin, Shangyuan Feng, Sufang Qiu, Beizhan Wang, KunHong Liu. <br>
+> <em>International Conference on Computing and Data Science</em>(<i><b>CONF-CDS 2021</b></i>), Stanford, USA. <br>
 
 
 
