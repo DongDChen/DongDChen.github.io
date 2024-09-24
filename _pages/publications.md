@@ -60,12 +60,12 @@ You can also find my articles on [my Google Scholar profile](https://scholar.goo
 > <em>International Conference on Medical Image Computing and Computer Assisted Interventiong</em>(<i><b>MICCAI 2024</b></i>), Marrakesh, Morocco. <br>
 
 
-> <b><a href="https://link.springer.com/chapter/10.1007/978-3-031-43993-3_6" target="_blank">Learnable Subdivision Graph Neural Network for Functional Brain Network Analysis and Interpretable Cognitive Disorder Diagnosis</b> <br>
+> <b><a href="https://link.springer.com/chapter/10.1007/978-3-031-43993-3_6" target="_blank">Learnable Subdivision Graph Neural Network for Functional Brain Network Analysis and Interpretable Cognitive Disorder Diagnosis</a></b> <br>
 > <b>Dongdong Chen</b>, Mengjun Liu, Zhenrong Shen, Xiangyu Zhao, Qian Wang, Lichi Zhang. <br>
 > <em>International Conference on Medical Image Computing and Computer Assisted Interventiong</em>(<i><b>MICCAI 2023</b></i>), Vancouver, Cannada. <br>
 
 
-> <b><a href="https://link.springer.com/chapter/10.1007/978-3-031-43993-3_7" target="_blank">Learnable Subdivision Graph Neural Network for Functional Brain Network Analysis and Interpretable Cognitive Disorder Diagnosis</b> <br>
+> <b><a href="https://link.springer.com/chapter/10.1007/978-3-031-43993-3_7" target="_blank">Learnable Subdivision Graph Neural Network for Functional Brain Network Analysis and Interpretable Cognitive Disorder Diagnosis</a></b> <br>
 > <b>Dongdong Chen</b>, Lichi Zhang. <br>
 > <em>International Conference on Medical Image Computing and Computer Assisted Interventiong</em>(<i><b>MICCAI 2023</b></i>), Vancouver, Cannada. <br>
 
