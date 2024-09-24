@@ -5,14 +5,14 @@ permalink: /publications/
 author_profile: true
 ---
 
-You can also find my articles on [my Google Scholar profile](https://scholar.google.com/citations?user=taDlSIMAAAAJ).
+You can also find my articles on [my Google Scholar profile](https://scholar.google.com/citations?user=hj5A7WcAAAAJ).
 
 
 ## 2024
 ### Journal Papers
-> <b><a href="https://www.sciencedirect.com/science/article/abs/pii/S0893608024003290" target="_blank">Distillation of Multi-class Cervical Lesion Cell Detection via Synthesis-aided Pre-training and Patch-level Feature Alignment</a></b> <br>
-> Manman Fei, <b>Zhenrong Shen</b>, Zhiyun Song, Xin Wang, Maosong Cao, Linlin Yao, Xiangyu Zhao, Qian Wang, Lichi Zhang. <br>
-> <em>Neural Networks</em>, 2024 <br>
+> <b><a href="https://ieeexplore.ieee.org/document/10531005" target="_blank">Hierarchical Encoding and Fusion of Brain Functions for Depression Subtype Classification</a></b> <br>
+> Mengjun Liu, Huifeng Zhang, Mianxin Liu, <b>Dongdong Chen</b>, Rubai Zhou, Wenxian Lu, Lichi Zhang, Dinggang Shen, Qian Wang, Daihui Peng. <br>
+> <em>IEEE Transactions on Affective Computing</em>, 2024 <br>
 
 > <b><a href="https://www.sciencedirect.com/science/article/pii/S1361841524000835" target="_blank">Spatial Attention-based Implicit Neural Representation for Arbitrary Reduction of MRI Slice Spacing</a></b> <br>
 > Xin Wang\*, Sheng Wang\*, Honglin Xiong, Kai Xuan, Zixu Zhuang, Mengjun Liu, <b>Zhenrong Shen</b>, Xiangyu Zhao, Lichi Zhang, Qian Wang. <br>
