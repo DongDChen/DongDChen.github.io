@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Dongdong Chen is a Ph.D. candidate in the School of Biomedical Engineering at Shanghai Jiao Tong University. He is currently under the supervision of Prof. [Lichi Zhang](https://bme.sjtu.edu.cn/Web/FacultyDetail/77) and Prof. [Qian Wang](https://qianwang.space/) at the Medical Imaging Computing Lab. He received his B.S. and M.S. from the Informatics School of Xiamen University, where he was under the supervision of Prof. [Zhihong Zhang](https://informatics.xmu.edu.cn/info/1475/25779.htm) and Prof. [Edwin R. Hancock](https://bme.sjtu.edu.cn/Web/FacultyDetail/77) for research.
+Dongdong Chen is a Ph.D. candidate in the School of Biomedical Engineering at Shanghai Jiao Tong University. He is currently under the supervision of Prof. [Lichi Zhang](https://bme.sjtu.edu.cn/Web/FacultyDetail/77) and Prof. [Qian Wang](https://qianwang.space/) at the Medical Imaging Computing Lab. He received his B.S. and M.S. from the Informatics School of Xiamen University, where he was under the supervision of Prof. [Zhihong Zhang](https://informatics.xmu.edu.cn/info/1475/25779.htm) and Prof. [Edwin R. Hancock](https://www.cs.york.ac.uk/people/erh) for research.
 
 His research interests lie in brain network analysis,  particularly problems involving graphs and networks. 
 
