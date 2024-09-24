@@ -1,7 +1,7 @@
 ---
 layout: archive
-title: "CV"
-permalink: /Dongdong Chen/
+title: "Dongdong Chen"
+permalink: /cv/
 author_profile: true
 redirect_from:
   - /resume
