@@ -51,7 +51,7 @@ You can also find my articles on [my Google Scholar profile](https://scholar.goo
 
 
 ### Conference Papers	
-> <b>Self-supervised Learning with Adaptive Graph Structure and Function Representation For Cross-Dataset Brain Disorder Diagnosis</b> <br>
+> <b><a>Self-supervised Learning with Adaptive Graph Structure and Function Representation For Cross-Dataset Brain Disorder Diagnosis</a></b> <br>
 > <b>Dongdong Chen</b>, Linlin Yao, Mengjun Liu, Zhenrong Shen, Yuqi Hu, Zhiyun Song, Qian Wang, Lichi Zhang. <br>
 > <em>International Conference on Medical Image Computing and Computer Assisted Interventiong</em>(<i><b>MICCAI 2024</b></i>), Marrakesh, Morocco. <br>
 
