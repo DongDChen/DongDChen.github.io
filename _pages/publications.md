@@ -37,16 +37,16 @@ You can also find my articles on [my Google Scholar profile](https://scholar.goo
 
 
 > <b><a href="https://ieeexplore.ieee.org/abstract/document/9222474" target="_blank">Graph motif entropy for understanding time-evolving networks</a></b> <br>
-> Zhihong Zhang, <b>Dongdong Chen</b>, Lu Bai, Jianjia Wang, Edwin R Hancock. (first student author) <br>
+> Zhihong Zhang, <b>Dongdong Chen</b> (first student author), Lu Bai, Jianjia Wang, Edwin R Hancock. (first student author) <br>
 > <em>IEEE Transactions on Neural Networks and Learning Systems</em>, 2020 <br>
 
 
 > <b><a href="https://www.sciencedirect.com/science/article/pii/S0031320319300354" target="_blank">Depth-based subgraph convolutional auto-encoder for network representation learning</a></b> <br>
-> Zhihong Zhang, <b>Dongdong Chen</b>, Zeli Wang, Heng Li, Lu Bai, Edwin R Hancock. (first student author) <br>
+> Zhihong Zhang, <b>Dongdong Chen</b> (first student author), Zeli Wang, Heng Li, Lu Bai, Edwin R Hancock.  <br>
 > <em>Pattern Recognition</em>, 2019 <br>
 
 > <b><a href="https://www.sciencedirect.com/science/article/pii/S0031320318303820" target="_blank">Quantum-based subgraph convolutional neural networks</a></b> <br>
-> Zhihong Zhang, <b>Dongdong Chen</b>, Jianjia Wang, Lu Bai, Edwin R Hancock. (first student author) <br>
+> Zhihong Zhang, <b>Dongdong Chen</b> (first student author), Jianjia Wang, Lu Bai, Edwin R Hancock. (first student author) <br>
 > <em>Pattern Recognition</em>, 2019 <br>
 
 
