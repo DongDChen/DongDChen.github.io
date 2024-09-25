@@ -6,8 +6,8 @@ author_profile: true
 ---
 
 
-{% include base_path %}
-<a href="http://DongDChen.github.io/images/talk_ICPR2018.jpg" target="_blank">Personal CV</a>
-> <em>Neurocomputing</em>, SCI Q2. <br>
-
-
+### 2018 24th International Conference on Pattern Recognition (ICPR), Beijing, China
+Oral, Best Scientific Paper Award <br>
+===
+<b><a href="https://ieeexplore.ieee.org/abstract/document/8545090/" target="_blank">Depth-based subgraph convolutional neural networks</a></b><br>
+> ![](/images/talk_ICPR2018.jpg)
