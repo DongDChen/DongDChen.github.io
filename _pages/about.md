@@ -44,7 +44,6 @@ Activities
   - Silver Award (6th China International College Students 'Internet+' Innovation and Entrepreneurship Competition)
   - Bronze Award (4th China International College Students 'Internet+' Innovation and Entrepreneurship Competition)
   - Third Prize (twice) (National College New Energy Vehicle Big Data Application Innovation Competition)
-  - 
 - Patents
   - A method for associating brain imaging with brain tissue genes (CN 118314966 A)
   - Real-time positioning and control software for intelligent vehicles based on depth sensors (2017SR307098)
