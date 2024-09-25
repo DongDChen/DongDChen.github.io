@@ -12,6 +12,19 @@ Dongdong Chen is a Ph.D. candidate in the School of Biomedical Engineering at Sh
 His research interests lie in brain network analysis,  particularly problems involving graphs and networks. 
 
 
+Exchanges
+======
+- Winter, 2018:
+  - Tsinghua University
+  - Supervisor： Prof. [Zhiyuan Liu](https://nlp.csai.tsinghua.edu.cn/~lzy/index_cn.html)
+  - Research: Quantum walk-based graph convolutional neural network learning.
+
+- Summer, 2020:
+  - University of Science and Technology of China
+  - Supervisor: Prof. [Yuchun Wu](http://lqcc.ustc.edu.cn/hr30.html)
+  - Research: Quantum-based graph representation learning.
+
+
 Activities
 ======
 - Journal Reviewer
