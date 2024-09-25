@@ -95,4 +95,25 @@ You can also find my articles on [my Google Scholar profile](https://scholar.goo
 > Zheren Li, Zhiming Cui, Lichi Zhang, Sheng Wang, Chenjin Lei, Xi Ouyang, <b>Dongdong Chen</b>, Xiangyu Zhao, Yajia Gu, Zaiyi Liu, Chunling Liu, Dinggang Shen, Jie-Zhi Cheng.<br>
 
 
+## Under Review
+> <b>Exploring Multi-Connectivity and Subdivision Functions of Brain Network via Heterogeneous Graph Network for Cognitive Disorder Identification</b> <br>
+> <b>Dongdong Chen</b>, Mengjun Liu, Zhenrong Shen, Linlin Yao, Xiangyu Zhao, Zhiyun Song, Haolei Yuan, Qian Wang, Lichi Zhang.<br>
+> <em>IEEE Transactions on Neural Networks and Learning Systems</em>, 2025 <br>
+
+> <b>Guiding Fusion of Dynamic Functional and Effective Connectivity in Spatio-Temporal Graph Neural Network for Brain Disorder Classification</b> <br>
+> <b>Dongdong Chen</b>, Mengjun Liu, Sheng Wang, Zheren Li, Lu Bai, Qian Wang, Dinggang Shen, Lichi Zhang.<br>
+> <em>Knowledge-Based Systems</em>, 2025 <br>
+
+> <b>Alterations in brain microstructure among children with primary monosymptomatic nocturnal enuresis: an investigation using diffusion kurtosis imaging</b> <br>
+> Xindi Lin\*, Yusong Sun\*, <b>Dongdong Chen\*</b>, Jiayao Shen, Di Wu, Yi Mao, Yuhan Wu, Jiayi Lu, Wei Zhong, Mengxing Wang, Lichi Zhang, Jun Ma.<br>
+> <em>American Journal of Psychiatry</em>, 2025 <br>
+
+> <b>AASeg: Artery-aware Global-to-Local Framework for Aneurysm Segmentation in Head and Neck CTA Images</b> <br>
+> Linlin Yao, <b>Dongdong Chen<\b>, Xiangyu Zhao, Manman Fei, Zhiyun Song, Zhong Xue, Yiqiang Zhan, Bin Song, Feng Shi, Qian Wang, Dinggang Shen. <br>
+> <em>IEEE Transactions on Medical Imaging</em>, 2025 <br>
+
+
+
+
+
 
