@@ -57,37 +57,36 @@ You can also find my articles on [my Google Scholar profile](https://scholar.goo
 
 > <b>Affinity Learning Based Brain Function Representation for Disease Diagnosis</b> <br>
 > Mengjun Liu, Zhiyun Song, <b>Dongdong Chen</b>, Xin Wang, Zixu Zhuang, Manmn Fei, Lichi Zhang, Qian Wang. <br>
-> <em>International Conference on Medical Image Computing and Computer Assisted Interventiong</em>(<i><b>MICCAI 2024</b></i>), Marrakesh, Morocco. <br>
+> <em>International Conference on Medical Image Computing and Computer Assisted Interventiong</em>(<i><b>MICCAI 2024</b></i>), Marrakesh, Morocco. CCF-B. <br>
 
 > <b>Consistent 3D Medical Image Inpainting via Implicit Representation and Multi-View Sampling</b> <br>
 > Yuqi Hu, Zhenrong Shen, Zhiyun Song, <b>Dongdong Chen</b>, Qian Wang, Lichi Zhang. <br>
-> <em>International Conference on Information Communication and Signal Processing</em>(<i><b>ICICSP 2024</b></i>), Zhoushan, China. <br>
-
+> <em>International Conference on Information Communication and Signal Processing</em>(<i><b>ICICSP 2024</b></i>), Zhoushan, China. EI. <br>
 
 
 > <b><a href="https://link.springer.com/chapter/10.1007/978-3-031-43993-3_6" target="_blank">Learnable Subdivision Graph Neural Network for Functional Brain Network Analysis and Interpretable Cognitive Disorder Diagnosis</a></b> <br>
 > <b>Dongdong Chen</b>, Mengjun Liu, Zhenrong Shen, Xiangyu Zhao, Qian Wang, Lichi Zhang. <br>
-> <em>International Conference on Medical Image Computing and Computer Assisted Interventiong</em>(<i><b>MICCAI 2023</b></i>), Vancouver, Cannada. <br>
+> <em>International Conference on Medical Image Computing and Computer Assisted Interventiong</em>(<i><b>MICCAI 2023</b></i>), Vancouver, Cannada. CCF-B.<br>
 
 
 > <b><a href="https://link.springer.com/chapter/10.1007/978-3-031-43993-3_7" target="_blank">Learnable Subdivision Graph Neural Network for Functional Brain Network Analysis and Interpretable Cognitive Disorder Diagnosis</a></b> <br>
 > <b>Dongdong Chen</b>, Lichi Zhang. <br>
-> <em>International Conference on Medical Image Computing and Computer Assisted Interventiong</em>(<i><b>MICCAI 2023</b></i>), Vancouver, Cannada. <br>
+> <em>International Conference on Medical Image Computing and Computer Assisted Interventiong</em>(<i><b>MICCAI 2023</b></i>), Vancouver, Cannada. CCF-B. <br>
 
 
 > <b><a href="https://https://link.springer.com/chapter/10.1007/978-3-031-43901-8_12" target="_blank">One-shot traumatic brain segmentation with adversarial training and uncertainty rectification</a></b> <br>
 > Xiangyu Zhao, Zhenrong Shen, <b>Dongdong Chen</b>, Sheng Wang, Zixu Zhuang, Qian Wang, Lichi Zhang. <br>
-> <em>International Conference on Medical Image Computing and Computer Assisted Interventiong</em>(<i><b>MICCAI 2023</b></i>), Vancouver, Cannada. <br>
+> <em>International Conference on Medical Image Computing and Computer Assisted Interventiong</em>(<i><b>MICCAI 2023</b></i>), Vancouver, Cannada. CCF-B. <br>
 
 
 > <b><a href="https://ieeexplore.ieee.org/abstract/document/9669416" target="_blank">FES-RF: A Feature Ensemble Selection Based Random Forest Method For Accurate Cancer Screening</a></b> <br>
 > Jiatong Liu, Changbin Pan, <b>Dongdong Chen</b>, WeiPing Lin, Shangyuan Feng, Sufang Qiu, Beizhan Wang, KunHong Liu. <br>
-> <em>IEEE International Conference on Bioinformatics and Biomedicine</em>(<i><b>BIBM 2021</b></i>), Houston, USA. <br>
+> <em>IEEE International Conference on Bioinformatics and Biomedicine</em>(<i><b>BIBM 2021</b></i>), Houston, USA. CCF-B. <br>
 
 
-> <b><a href="https://dl.acm.org/doi/abs/10.1145/3448734.3450483" target="_blank">FES-RF: A Feature Ensemble Selection Based Random Forest Method For Accurate Cancer Screening</a></b> <br>
-> Jiatong Liu, Changbin Pan, <b>Dongdong Chen</b>, WeiPing Lin, Shangyuan Feng, Sufang Qiu, Beizhan Wang, KunHong Liu. <br>
-> <em>International Conference on Computing and Data Science</em>(<i><b>CONF-CDS 2021</b></i>), Stanford, USA. <br>
+> <b><a href="https://dl.acm.org/doi/abs/10.1145/3448734.3450483" target="_blank">Automatic Terrain Generation System Based on Path Search Optimization</a></b> <br>
+> Jiatong Liu, <b>Dongdong Chen</b>, Chengyou Zhang, Duyang Li, Xiaoyan Zhang. <br>
+> <em>International Conference on Computing and Data Science</em>(<i><b>CONF-CDS 2021</b></i>), Stanford, USA. EI. <br>
 
 
 
@@ -104,22 +103,22 @@ You can also find my articles on [my Google Scholar profile](https://scholar.goo
 ## Under Review
 > <b>Exploring Multi-Connectivity and Subdivision Functions of Brain Network via Heterogeneous Graph Network for Cognitive Disorder Identification</b> <br>
 > <b>Dongdong Chen</b>, Mengjun Liu, Zhenrong Shen, Linlin Yao, Xiangyu Zhao, Zhiyun Song, Haolei Yuan, Qian Wang, Lichi Zhang.<br>
-> <em>IEEE Transactions on Neural Networks and Learning Systems</em><br>
+> <em>IEEE Transactions on Neural Networks and Learning Systems</em>, SCI Q1.<br>
 
 > <b>Guiding Fusion of Dynamic Functional and Effective Connectivity in Spatio-Temporal Graph Neural Network for Brain Disorder Classification</b> <br>
 > <b>Dongdong Chen</b>, Mengjun Liu, Sheng Wang, Zheren Li, Lu Bai, Qian Wang, Dinggang Shen, Lichi Zhang.<br>
-> <em>Knowledge-Based Systems</em> <br>
+> <em>Knowledge-Based Systems</em>, SCI Q1. <br>
 
 > <b>Alterations in brain microstructure among children with primary monosymptomatic nocturnal enuresis: an investigation using diffusion kurtosis imaging</b> <br>
 > Xindi Lin\*, Yusong Sun\*, <b>Dongdong Chen\*</b>, Jiayao Shen, Di Wu, Yi Mao, Yuhan Wu, Jiayi Lu, Wei Zhong, Mengxing Wang, Lichi Zhang, Jun Ma.<br>
-> <em>American Journal of Psychiatry</em> <br>
+> <em>American Journal of Psychiatry</em>, SCI Q1. <br>
 
 > <b>AASeg: Artery-aware Global-to-Local Framework for Aneurysm Segmentation in Head and Neck CTA Images</b> <br>
 > Linlin Yao, <b>Dongdong Chen<\b>, Xiangyu Zhao, Manman Fei, Zhiyun Song, Zhong Xue, Yiqiang Zhan, Bin Song, Feng Shi, Qian Wang, Dinggang Shen. <br>
-> <em>IEEE Transactions on Medical Imaging</em> <br>
+> <em>IEEE Transactions on Medical Imaging</em>, SCI Q1. <br>
 
 > <b>Whole Slide Cervical Cancer Classification via Graph Attention Networks and Contrastive Learning</b> <br>
 > Manman Fei; Xin Zhang; <b>Dongdong Chen<\b>; Zhiyun Song; Qian Wang, Lichi Zhang. <br>
-> <em>Neurocomputing</em> <br>
+> <em>Neurocomputing</em>, SCI Q2. <br>
 
 
