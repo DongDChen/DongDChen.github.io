@@ -27,11 +27,24 @@ Activities
   - IEEE International Symposium on Biomedical Imaging (ISBI)
  
 
-## Honors & Awards
+## ACHIEVEMENTS
 ------
-- \[2023/12\] First Class Cybersecurity Scholarship
-- \[2023/12\] Merit Student Award
-- \[2021/6\] Outstanding Graduate Award
-- \[2020/12\] National Scholarship
-- \[2020/12\] Outstanding Merit Student Award
-- \[2014/6\] Merit Student Award, Yangzhou City
+- Scholarships
+  - National Scholarship
+  - Academic Excellence Scholarship
+  - ‘Yi Xin’ Scholarship
+  - ‘Yi Liu Wang An’ Scholarship 
+- Honors
+  - Merit Student Award (Yangzhou City)
+  - Outstanding Graduate Award (XMU)
+  - Merit Student Award (XMU)
+  - Merit Student Award (SJTU)
+- Awards
+  - Excellent Award (1st China Electronic Information Industry Innovation and Entrepreneurship Competition)
+  - Silver Award (6th China International College Students 'Internet+' Innovation and Entrepreneurship Competition)
+  - Bronze Award (4th China International College Students 'Internet+' Innovation and Entrepreneurship Competition)
+  - Third Prize (twice) (National College New Energy Vehicle Big Data Application Innovation Competition)
+  - 
+- Patents
+  - A method for associating brain imaging with brain tissue genes (CN 118314966 A)
+  - Real-time positioning and control software for intelligent vehicles based on depth sensors (2017SR307098)
