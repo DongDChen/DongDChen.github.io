@@ -37,7 +37,7 @@ You can also find my articles on [my Google Scholar profile](https://scholar.goo
 
 
 > <b><a href="https://ieeexplore.ieee.org/abstract/document/9222474" target="_blank">Graph motif entropy for understanding time-evolving networks</a></b> <br>
-> Zhihong Zhang, <b>Dongdong Chen</b> (first student author), Lu Bai, Jianjia Wang, Edwin R Hancock. (first student author) <br>
+> Zhihong Zhang, <b>Dongdong Chen</b> (first student author), Lu Bai, Jianjia Wang, Edwin R Hancock. <br>
 > <em>IEEE Transactions on Neural Networks and Learning Systems</em>, SCI Q1, 2020 <br>
 
 
@@ -46,7 +46,7 @@ You can also find my articles on [my Google Scholar profile](https://scholar.goo
 > <em>Pattern Recognition</em>, SCI Q1, 2019 <br>
 
 > <b><a href="https://www.sciencedirect.com/science/article/pii/S0031320318303820" target="_blank">Quantum-based subgraph convolutional neural networks</a></b> <br>
-> Zhihong Zhang, <b>Dongdong Chen</b> (first student author), Jianjia Wang, Lu Bai, Edwin R Hancock. (first student author) <br>
+> Zhihong Zhang, <b>Dongdong Chen</b> (first student author), Jianjia Wang, Lu Bai, Edwin R Hancock. <br>
 > <em>Pattern Recognition</em>, SCI Q1, 2019 <br>
 
 
@@ -114,11 +114,11 @@ You can also find my articles on [my Google Scholar profile](https://scholar.goo
 > <em>American Journal of Psychiatry</em>, SCI Q1. <br>
 
 > <b>AASeg: Artery-aware Global-to-Local Framework for Aneurysm Segmentation in Head and Neck CTA Images</b> <br>
-> Linlin Yao, <b>Dongdong Chen<\b>, Xiangyu Zhao, Manman Fei, Zhiyun Song, Zhong Xue, Yiqiang Zhan, Bin Song, Feng Shi, Qian Wang, Dinggang Shen. <br>
+> Linlin Yao, <b>Dongdong Chen</b>, Xiangyu Zhao, Manman Fei, Zhiyun Song, Zhong Xue, Yiqiang Zhan, Bin Song, Feng Shi, Qian Wang, Dinggang Shen. <br>
 > <em>IEEE Transactions on Medical Imaging</em>, SCI Q1. <br>
 
 > <b>Whole Slide Cervical Cancer Classification via Graph Attention Networks and Contrastive Learning</b> <br>
-> Manman Fei; Xin Zhang; <b>Dongdong Chen<\b>; Zhiyun Song; Qian Wang, Lichi Zhang. <br>
+> Manman Fei; Xin Zhang; <b>Dongdong Chen</b>; Zhiyun Song; Qian Wang, Lichi Zhang. <br>
 > <em>Neurocomputing</em>, SCI Q2. <br>
 
 
