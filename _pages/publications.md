@@ -118,7 +118,12 @@ You can also find my articles on [my Google Scholar profile](https://scholar.goo
 > <em>IEEE Transactions on Medical Imaging</em>, SCI Q1. <br>
 
 > <b>Whole Slide Cervical Cancer Classification via Graph Attention Networks and Contrastive Learning</b> <br>
-> Manman Fei; Xin Zhang; <b>Dongdong Chen</b>; Zhiyun Song; Qian Wang, Lichi Zhang. <br>
+> Manman Fei, Xin Zhang, <b>Dongdong Chen</b>, Zhiyun Song, Qian Wang, Lichi Zhang. <br>
 > <em>Neurocomputing</em>, SCI Q2. <br>
+
+
+> <b>Enhancing Generative Models for Modality Imputation of 3D MRIs via Consistency-aware Refinement and Super-resolution Guidance</b> <br>
+> Zhiyun Song, Xin Wang, Honglin Xiong, Mengjun Liu, Manman Fei, Xiangyu Zhao, Zhenrong Shen, Sheng Wang, <b>Dongdong Chen, Linlin Yao, Qian Wang, Lichi Zhang. <br>
+> <em>IEEE Transactions on Neural Networks and Learning Systems </em>, SCI Q1. <br>
 
 
