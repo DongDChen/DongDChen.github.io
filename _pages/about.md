@@ -16,8 +16,8 @@ Exchange experiences
 ======
 - Winter, 2018:
   - Tsinghua University
-  - Supervisor： Prof. [Zhiyuan Liu](https://nlp.csai.tsinghua.edu.cn/~lzy/index_cn.html)
-  - Research: Quantum walk-based graph convolutional neural network learning.
+  - Supervisor：Prof. [Zhiyuan Liu](https://nlp.csai.tsinghua.edu.cn/~lzy/index_cn.html)
+  - Research: Graph convolutional neural network learning.
 
 - Summer, 2020:
   - University of Science and Technology of China
