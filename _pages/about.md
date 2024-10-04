@@ -12,7 +12,7 @@ Dongdong Chen is a Ph.D. candidate in the School of Biomedical Engineering at Sh
 His research interests lie in brain network analysis,  particularly problems involving graphs and networks. 
 
 
-Exchanges
+Exchange experiences
 ======
 - Winter, 2018:
   - Tsinghua University
@@ -40,7 +40,7 @@ Activities
   - IEEE International Symposium on Biomedical Imaging (ISBI)
  
 
-## ACHIEVEMENTS
+## Achievements
 ------
 - Scholarships
   - National Scholarship
