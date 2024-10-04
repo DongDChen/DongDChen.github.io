@@ -10,12 +10,12 @@ You can also find my articles on [my Google Scholar profile](https://scholar.goo
 
 ### Journal Papers
 > <b><a href="https://ieeexplore.ieee.org/abstract/document/10440630" target="_blank">Randomizing Human Brain Function Representation for Brain Disease Diagnosisn</a></b> <br>
-> Mengjun Liu\*, Huifeng Zhang\*, Mianxin Liu, <b>Dongdong Chen</b>, Zixu Zhuang, Xin Wang, Lichi Zhang, Daihui Peng, Qian Wang. <br>
+> Mengjun Liu\#, Huifeng Zhang\#, Mianxin Liu, <b>Dongdong Chen</b>, Zixu Zhuang, Xin Wang, Lichi Zhang, Daihui Peng, Qian Wang. <br>
 > <em>IEEE Transactions on Medical Imaging</em>, SCI Q1, 2024 <br>
 
 
 > <b><a href="https://ieeexplore.ieee.org/document/10531005" target="_blank">Hierarchical Encoding and Fusion of Brain Functions for Depression Subtype Classification</a></b> <br>
-> Mengjun Liu\*, Huifeng Zhang\*, Mianxin Liu, <b>Dongdong Chen</b>, Rubai Zhou, Wenxian Lu, Lichi Zhang, Dinggang Shen, Qian Wang, Daihui Peng. <br>
+> Mengjun Liu\#, Huifeng Zhang\#, Mianxin Liu, <b>Dongdong Chen</b>, Rubai Zhou, Wenxian Lu, Lichi Zhang, Dinggang Shen, Qian Wang, Daihui Peng. <br>
 > <em>IEEE Transactions on Affective Computing</em>, SCI Q2, 2024 <br>
 
 
@@ -110,7 +110,7 @@ You can also find my articles on [my Google Scholar profile](https://scholar.goo
 > <em>Knowledge-Based Systems</em>, SCI Q1. <br>
 
 > <b>Alterations in brain microstructure among children with primary monosymptomatic nocturnal enuresis: an investigation using diffusion kurtosis imaging</b> <br>
-> Xindi Lin\*, Yusong Sun\*, <b>Dongdong Chen\*</b>, Jiayao Shen, Di Wu, Yi Mao, Yuhan Wu, Jiayi Lu, Wei Zhong, Mengxing Wang, Lichi Zhang, Jun Ma.<br>
+> Xindi Lin\#, Yusong Sun\#, <b>Dongdong Chen\#</b>, Jiayao Shen, Di Wu, Yi Mao, Yuhan Wu, Jiayi Lu, Wei Zhong, Mengxing Wang, Lichi Zhang, Jun Ma.<br>
 > <em>American Journal of Psychiatry</em>, SCI Q1. <br>
 
 > <b>AASeg: Artery-aware Global-to-Local Framework for Aneurysm Segmentation in Head and Neck CTA Images</b> <br>
@@ -123,7 +123,7 @@ You can also find my articles on [my Google Scholar profile](https://scholar.goo
 
 
 > <b>Enhancing Generative Models for Modality Imputation of 3D MRIs via Consistency-aware Refinement and Super-resolution Guidance</b> <br>
-> Zhiyun Song, Xin Wang, Honglin Xiong, Mengjun Liu, Manman Fei, Xiangyu Zhao, Zhenrong Shen, Sheng Wang, <b>Dongdong Chen, Linlin Yao, Qian Wang, Lichi Zhang. <br>
+> Zhiyun Song, Xin Wang, Honglin Xiong, Mengjun Liu, Manman Fei, Xiangyu Zhao, Zhenrong Shen, Sheng Wang, <b>Dongdong Chen</b>, Linlin Yao, Qian Wang, Lichi Zhang. <br>
 > <em>IEEE Transactions on Neural Networks and Learning Systems </em>, SCI Q1. <br>
 
 
