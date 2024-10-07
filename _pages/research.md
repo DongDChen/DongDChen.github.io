@@ -12,19 +12,18 @@ author_profile: true
 - Proposed a novel graph convolutional auto-encoder architecture that integrates the global topological structure and local connectivity information within a graph.
 
 
-Motif-based Graph Representation Learning	（2019 – 2021）
-=====
+### Motif-based Graph Representation Learning	（2019 – 2021）
+
 - Proposed a theoretical basis for motif-based graph representation learning, which derived novel measurement quantities by mapping the graph motifs into clusters in the thermodynamic system.
 - Extended motif-based representations into directed graph field, and validated in anomaly detection for the stock market.
 
   
-Graph Representation Learning in Computer Vision	（2021 – 2023）
-=====
+### Graph Representation Learning in Computer Vision	（2021 – 2023）
+
 - For 2D images: Proposed a position-aware embedding network based on subgraphs for graph matching, which combined relative position information at the node level and high-order structural arrangement information at the subgraph level.
 
 
-Graph Learning in Brain Network Analysis	（2021 – 2024）
-=====
+### Graph Learning in Brain Network Analysis	（2021 – 2024）
 
 - Dynamic Representation Learning
   - Proposed a dynamic graph modeling method for brain functional and effective connectivity.
