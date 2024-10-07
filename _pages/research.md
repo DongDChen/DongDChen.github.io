@@ -21,23 +21,22 @@ Motif-based Graph Representation Learning	（2019 – 2021）
   
 Graph Representation Learning in Computer Vision	（2021 – 2023）
 =====
-- Proposed a position-aware embedding network based on subgraphs for graph matching, which combined relative position information at the node level and high-order structural arrangement information at subgraph level.
-- Proposed a centerline graph network for aneurysm global localization, which promoted the downstream local aneurysm segmentation.
+- For 2D images: Proposed a position-aware embedding network based on subgraphs for graph matching, which combined relative position information at the node level and high-order structural arrangement information at the subgraph level.
 
 
 Graph Learning in Brain Network Analysis	（2021 – 2024）
 =====
 
 - Dynamic Representation Learning
--	- Proposed a dynamic graph modeling method for brain functional and effective connectivity.
--	- Proposed a spatio-temporal graph neural network with brain functional and effective connectivity fusion for MCI diagnosis.
+  - Proposed a dynamic graph modeling method for brain functional and effective connectivity.
+  - Proposed a spatio-temporal graph neural network with brain functional and effective connectivity fusion for MCI diagnosis.
 
 - Directed Representation Learning
--	- Proposed a learnable subdivision method to encode brain networks into multiple latent feature subspaces, which extracted representations of brain networks in discrete subspaces.
--	- Proposed a heterogeneous brain network modeling and representation method for brain cognitive disorder diagnosis.
+  - Proposed a learnable subdivision method to encode brain networks into multiple latent feature subspaces, which extracted representations of brain networks in discrete subspaces.
+  - Proposed a heterogeneous brain network modeling and representation method for brain cognitive disorder diagnosis.
 
 
 - Graph Structure Learning
--	- Proposed a graph structure learner that adaptively characterizes general brain connectivity networks for various brain disorders.
--	- Proposed a fundamental brain network analysis framework based on graph contrastive learning for multi-dataset brain disorder diagnosis.
+  - Proposed a graph structure learner that adaptively characterizes general brain connectivity networks for various brain disorders.
+  - Proposed a fundamental brain network analysis framework based on graph contrastive learning for multi-dataset brain disorder diagnosis.
 
