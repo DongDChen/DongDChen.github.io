@@ -6,8 +6,7 @@ author_profile: true
 ---
 
 
-Graph Convolutional Neural Network Learning （2017 – 2019）
-======
+###Graph Convolutional Neural Network Learning （2017 – 2019）
 
 - Proposed a novel graph convolutional neural network architecture based on depth-based representation of graph structure deriving from quantum walks.
 - Proposed a novel graph convolutional auto-encoder architecture that integrates the global topological structure and local connectivity information within a graph.
