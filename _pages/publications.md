@@ -9,6 +9,14 @@ You can also find my articles on [my Google Scholar profile](https://scholar.goo
 
 
 ### Journal Papers
+> <b>Exploring Multi-Connectivity and Subdivision Functions of Brain Network via Heterogeneous Graph Network for Cognitive Disorder Identification</b> <br>
+> <b>Dongdong Chen</b>, Mengjun Liu, Zhenrong Shen, Linlin Yao, Xiangyu Zhao, Zhiyun Song, Haolei Yuan, Qian Wang, Lichi Zhang.<br>
+> <em>IEEE Transactions on Neural Networks and Learning Systems</em>, SCI Q1.<br>
+
+> <b>Whole Slide Cervical Cancer Classification via Graph Attention Networks and Contrastive Learning</b> <br>
+> Manman Fei, Xin Zhang, <b>Dongdong Chen</b>, Zhiyun Song, Qian Wang, Lichi Zhang. <br>
+> <em>Neurocomputing</em>, SCI Q2. <br>
+
 > <b><a href="https://ieeexplore.ieee.org/abstract/document/10440630" target="_blank">Randomizing Human Brain Function Representation for Brain Disease Diagnosisn</a></b> <br>
 > Mengjun Liu<sup>#</sup>, Huifeng Zhang<sup>#</sup>, Mianxin Liu, <b>Dongdong Chen</b>, Zixu Zhuang, Xin Wang, Lichi Zhang, Daihui Peng, Qian Wang. <br>
 > <em>IEEE Transactions on Medical Imaging</em>, SCI Q1, 2024 <br>
@@ -101,9 +109,7 @@ You can also find my articles on [my Google Scholar profile](https://scholar.goo
 > <em>Computers in Biology and Medicine, under review</em> <br>
 
 ## Under Review
-> <b>Exploring Multi-Connectivity and Subdivision Functions of Brain Network via Heterogeneous Graph Network for Cognitive Disorder Identification</b> <br>
-> <b>Dongdong Chen</b>, Mengjun Liu, Zhenrong Shen, Linlin Yao, Xiangyu Zhao, Zhiyun Song, Haolei Yuan, Qian Wang, Lichi Zhang.<br>
-> <em>IEEE Transactions on Neural Networks and Learning Systems</em>, SCI Q1.<br>
+
 
 > <b>Guiding Fusion of Dynamic Functional and Effective Connectivity in Spatio-Temporal Graph Neural Network for Brain Disorder Classification</b> <br>
 > <b>Dongdong Chen</b>, Mengjun Liu, Sheng Wang, Zheren Li, Lu Bai, Qian Wang, Dinggang Shen, Lichi Zhang.<br>
@@ -116,10 +122,6 @@ You can also find my articles on [my Google Scholar profile](https://scholar.goo
 > <b>AASeg: Artery-aware Global-to-Local Framework for Aneurysm Segmentation in Head and Neck CTA Images</b> <br>
 > Linlin Yao, <b>Dongdong Chen</b>, Xiangyu Zhao, Manman Fei, Zhiyun Song, Zhong Xue, Yiqiang Zhan, Bin Song, Feng Shi, Qian Wang, Dinggang Shen. <br>
 > <em>IEEE Transactions on Medical Imaging</em>, SCI Q1. <br>
-
-> <b>Whole Slide Cervical Cancer Classification via Graph Attention Networks and Contrastive Learning</b> <br>
-> Manman Fei, Xin Zhang, <b>Dongdong Chen</b>, Zhiyun Song, Qian Wang, Lichi Zhang. <br>
-> <em>Neurocomputing</em>, SCI Q2. <br>
 
 
 > <b>Enhancing Generative Models for Modality Imputation of 3D MRIs via Consistency-aware Refinement and Super-resolution Guidance</b> <br>
