@@ -11,11 +11,11 @@ You can also find my articles on [my Google Scholar profile](https://scholar.goo
 ### Journal Papers
 > <b>Exploring Multi-Connectivity and Subdivision Functions of Brain Network via Heterogeneous Graph Network for Cognitive Disorder Identification</b> <br>
 > <b>Dongdong Chen</b>, Mengjun Liu, Zhenrong Shen, Linlin Yao, Xiangyu Zhao, Zhiyun Song, Haolei Yuan, Qian Wang, Lichi Zhang.<br>
-> <em>IEEE Transactions on Neural Networks and Learning Systems</em>, SCI Q1.<br>
+> <em>IEEE Transactions on Neural Networks and Learning Systems</em>, SCI Q1, 2024.<br>
 
 > <b>Whole Slide Cervical Cancer Classification via Graph Attention Networks and Contrastive Learning</b> <br>
 > Manman Fei, Xin Zhang, <b>Dongdong Chen</b>, Zhiyun Song, Qian Wang, Lichi Zhang. <br>
-> <em>Neurocomputing</em>, SCI Q2. <br>
+> <em>Neurocomputing</em>, SCI Q2, 2024. <br>
 
 > <b><a href="https://ieeexplore.ieee.org/abstract/document/10440630" target="_blank">Randomizing Human Brain Function Representation for Brain Disease Diagnosisn</a></b> <br>
 > Mengjun Liu<sup>#</sup>, Huifeng Zhang<sup>#</sup>, Mianxin Liu, <b>Dongdong Chen</b>, Zixu Zhuang, Xin Wang, Lichi Zhang, Daihui Peng, Qian Wang. <br>
