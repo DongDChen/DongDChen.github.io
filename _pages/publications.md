@@ -117,7 +117,7 @@ You can also find my articles on [my Google Scholar profile](https://scholar.goo
 
 > <b>Alterations in brain microstructure among children with primary monosymptomatic nocturnal enuresis: an investigation using diffusion kurtosis imaging</b> <br>
 > Xindi Lin<sup>#</sup>, Yusong Sun<sup>#</sup>, <b>Dongdong Chen<sup>#</sup></b>, Jiayao Shen, Di Wu, Yi Mao, Yuhan Wu, Jiayi Lu, Wei Zhong, Mengxing Wang, Lichi Zhang, Jun Ma.<br>
-> <em>American Journal of Psychiatry</em>, SCI Q1. <br>
+> <em>Brain</em>, SCI Q1. <br>
 
 > <b>AASeg: Artery-aware Global-to-Local Framework for Aneurysm Segmentation in Head and Neck CTA Images</b> <br>
 > Linlin Yao, <b>Dongdong Chen</b>, Xiangyu Zhao, Manman Fei, Zhiyun Song, Zhong Xue, Yiqiang Zhan, Bin Song, Feng Shi, Qian Wang, Dinggang Shen. <br>
