@@ -17,7 +17,7 @@ You can also find my articles on [my Google Scholar profile](https://scholar.goo
 > Manman Fei, Xin Zhang, <b>Dongdong Chen</b>, Zhiyun Song, Qian Wang, Lichi Zhang. <br>
 > <em>Neurocomputing</em>, SCI Q2, 2024. <br>
 
-> <b><a href="https://ieeexplore.ieee.org/abstract/document/10440630" target="_blank">Randomizing Human Brain Function Representation for Brain Disease Diagnosisn</a></b> <br>
+> <b><a href="https://ieeexplore.ieee.org/abstract/document/10440630" target="_blank">Randomizing Human Brain Function Representation for Brain Disease Diagnosis</a></b> <br>
 > Mengjun Liu<sup>#</sup>, Huifeng Zhang<sup>#</sup>, Mianxin Liu, <b>Dongdong Chen</b>, Zixu Zhuang, Xin Wang, Lichi Zhang, Daihui Peng, Qian Wang. <br>
 > <em>IEEE Transactions on Medical Imaging</em>, SCI Q1, 2024 <br>
 
