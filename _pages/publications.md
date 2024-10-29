@@ -77,7 +77,7 @@ You can also find my articles on [my Google Scholar profile](https://scholar.goo
 > <em>International Conference on Medical Image Computing and Computer Assisted Interventiong</em>(<i><b>MICCAI 2023</b></i>), Vancouver, Cannada. CCF-B.<br>
 
 
-> <b><a href="https://link.springer.com/chapter/10.1007/978-3-031-43993-3_7" target="_blank">Learnable Subdivision Graph Neural Network for Functional Brain Network Analysis and Interpretable Cognitive Disorder Diagnosis</a></b> <br>
+> <b><a href="https://link.springer.com/chapter/10.1007/978-3-031-43993-3_7" target="_blank">FE-STGNN: Spatio-Temporal Graph Neural Network with Functional and Effective Connectivity Fusion for MCI Diagnosis</a></b> <br>
 > <b>Dongdong Chen</b>, Lichi Zhang. <br>
 > <em>International Conference on Medical Image Computing and Computer Assisted Interventiong</em>(<i><b>MICCAI 2023</b></i>), Vancouver, Cannada. CCF-B. <br>
 
