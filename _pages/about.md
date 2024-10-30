@@ -33,6 +33,7 @@ Activities
   - Engineering Applications of Artificial Intelligence
   - Journal of Complex Networks
   - Medical & Biological Engineering & Computing
+  - Knowledge and Information Systems
 
 - Conference Reviewer
   - Medical Image Computing and Computer Assisted Interventions (MICCAI)
