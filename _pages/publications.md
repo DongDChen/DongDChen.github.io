@@ -17,7 +17,7 @@ You can also find my articles on [my Google Scholar profile](https://scholar.goo
 > <b>Dongdong Chen</b>, Mengjun Liu, Sheng Wang, Zheren Li, Lu Bai, Qian Wang, Dinggang Shen, Lichi Zhang.<br>
 > <em>Knowledge-Based Systems</em>, SCI Q1. <br>
 
-> <b>AASeg: Artery-aware Global-to-Local Framework for Aneurysm Segmentation in Head and Neck CTA Images</b> <br>
+> <b><a href="https://ieeexplore.ieee.org/document/10750237" target="_blank">AASeg: Artery-aware Global-to-Local Framework for Aneurysm Segmentation in Head and Neck CTA Images</a></b> <br>
 > Linlin Yao, <b>Dongdong Chen</b>, Xiangyu Zhao, Manman Fei, Zhiyun Song, Zhong Xue, Yiqiang Zhan, Bin Song, Feng Shi, Qian Wang, Dinggang Shen. <br>
 > <em>IEEE Transactions on Medical Imaging</em>, SCI Q1. <be>
 
@@ -48,7 +48,7 @@ You can also find my articles on [my Google Scholar profile](https://scholar.goo
 > <b>Dongdong Chen</b>, Xingchen Guo, Jianjia Wang, Jiatong Liu, Zhihong Zhang, Edwin R Hancock. <br>
 > <em>Pattern recognition</em>, SCI Q1, 2021 <br>
 
-> <b><a href="https://http://publications.article4sub.com/id/eprint/2616/" target="_blank">Cluster Expansion Analysis for Dynamic Networks</a></b> <br>
+> <b><a href="https://stm.bookpi.org/NICST-V9/article/view/499" target="_blank">Cluster Expansion Analysis for Dynamic Networks</a></b> <br>
 > Jianjia Wang, Zhihong Zhang, <b>Dongdong Chen</b>, Edwin R Hancock. <br>
 > <em>New Ideas Concerning Science and Technology</em>, 2021 <br>
 
