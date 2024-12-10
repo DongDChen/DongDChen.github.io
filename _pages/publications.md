@@ -68,11 +68,11 @@ You can also find my articles on [my Google Scholar profile](https://scholar.goo
 
 
 ### Conference Papers	
-> <b><a>Self-supervised Learning with Adaptive Graph Structure and Function Representation For Cross-Dataset Brain Disorder Diagnosis</a></b> <br>
+> <b><a href="https://link.springer.com/chapter/10.1007/978-3-031-72120-5_57" target="_blank">Self-supervised Learning with Adaptive Graph Structure and Function Representation For Cross-Dataset Brain Disorder Diagnosis</a></b> <br>
 > <b>Dongdong Chen</b>, Linlin Yao, Mengjun Liu, Zhenrong Shen, Yuqi Hu, Zhiyun Song, Qian Wang, Lichi Zhang. <br>
 > <em>International Conference on Medical Image Computing and Computer Assisted Interventiong</em>(<i><b>MICCAI 2024</b></i>), Marrakesh, Morocco. CCF-B.<br>
 
-> <b>Affinity Learning Based Brain Function Representation for Disease Diagnosis</b> <br>
+> <b><a href="https://link.springer.com/chapter/10.1007/978-3-031-72069-7_2" target="_blank">Affinity Learning Based Brain Function Representation for Disease Diagnosis</a></b> <br>
 > Mengjun Liu, Zhiyun Song, <b>Dongdong Chen</b>, Xin Wang, Zixu Zhuang, Manmn Fei, Lichi Zhang, Qian Wang. <br>
 > <em>International Conference on Medical Image Computing and Computer Assisted Interventiong</em>(<i><b>MICCAI 2024</b></i>), Marrakesh, Morocco. CCF-B. <br>
 
@@ -118,9 +118,6 @@ You can also find my articles on [my Google Scholar profile](https://scholar.goo
 > <em>Computers in Biology and Medicine, under review</em> <br>
 
 ## Under Review
-
-
-
 > <b>Alterations in brain microstructure among children with primary monosymptomatic nocturnal enuresis: an investigation using diffusion kurtosis imaging</b> <br>
 > Xindi Lin<sup>#</sup>, Yusong Sun<sup>#</sup>, <b>Dongdong Chen<sup>#</sup></b>, Jiayao Shen, Di Wu, Yi Mao, Yuhan Wu, Jiayi Lu, Wei Zhong, Mengxing Wang, Lichi Zhang, Jun Ma.<br>
 > <em>Brain</em>, SCI Q1. <be>
