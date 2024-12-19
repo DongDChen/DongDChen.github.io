@@ -28,9 +28,10 @@ Exchange experiences
 Activities
 ======
 - Journal Reviewer
-  - Pattern Recognition
-  - Neural Networks
-  - Engineering Applications of Artificial Intelligence
+  - Pattern Recognition (PR)
+  - Neural Networks (NN)
+  - JJournal of Biomedical and Health Informatics (JBHI)
+  - Engineering Applications of Artificial Intelligence (EAAI)
   - Journal of Complex Networks
   - Medical & Biological Engineering & Computing
   - Knowledge and Information Systems
