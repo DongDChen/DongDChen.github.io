@@ -91,7 +91,7 @@ You can also find my articles on [my Google Scholar profile](https://scholar.goo
 > <em>International Conference on Medical Image Computing and Computer Assisted Interventiong</em>(<i><b>MICCAI 2023</b></i>), Vancouver, Cannada. CCF-B. <br>
 
 
-> <b><a href="https://https://link.springer.com/chapter/10.1007/978-3-031-43901-8_12" target="_blank">One-shot traumatic brain segmentation with adversarial training and uncertainty rectification</a></b> <br>
+> <b><a href="https://link.springer.com/chapter/10.1007/978-3-031-43901-8_12" target="_blank">One-shot traumatic brain segmentation with adversarial training and uncertainty rectification</a></b> <br>
 > Xiangyu Zhao, Zhenrong Shen, <b>Dongdong Chen</b>, Sheng Wang, Zixu Zhuang, Qian Wang, Lichi Zhang. <br>
 > <em>International Conference on Medical Image Computing and Computer Assisted Interventiong</em>(<i><b>MICCAI 2023</b></i>), Vancouver, Cannada. CCF-B. <br>
 
