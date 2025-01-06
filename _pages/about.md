@@ -30,7 +30,7 @@ Activities
 - Journal Reviewer
   - Pattern Recognition (PR)
   - Neural Networks (NN)
-  - JJournal of Biomedical and Health Informatics (JBHI)
+  - Journal of Biomedical and Health Informatics (JBHI)
   - Engineering Applications of Artificial Intelligence (EAAI)
   - Journal of Complex Networks
   - Medical & Biological Engineering & Computing
@@ -48,7 +48,8 @@ Activities
   - National Scholarship
   - Academic Excellence Scholarship
   - ‘Yi Xin’ Scholarship
-  - ‘Yi Liu Wang An’ Scholarship 
+  - ‘Yi Liu Wang An’ Scholarship
+  - 'Fujian Alumni' Scholarship
 - Honors
   - Merit Student Award (Yangzhou City)
   - Outstanding Graduate Award (XMU)
