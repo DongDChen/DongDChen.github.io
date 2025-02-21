@@ -9,13 +9,13 @@ You can also find my articles on [my Google Scholar profile](https://scholar.goo
 
 
 ### Journal Papers
-> <b><a href="https://arxiv.org/abs/2311.08225" target="_blank">Uni-coal: A unified framework for cross-modality synthesis and super-resolution of mr images</a></b> <br>
+> <b><a href="https://www.sciencedirect.com/science/article/abs/pii/S0957417424031087" target="_blank">Uni-coal: A unified framework for cross-modality synthesis and super-resolution of mr images</a></b> <br>
 > Zhiyun Song, Zengxin Qi, Xin Wang, Xiangyu Zhao, Zhenrong Shen, Sheng Wang, Manman Fei, Zhe Wang, Di Zang, <b>Dongdong Chen</b>, Linlin Yao, Qian Wang, Xuehai Wu, Lichi Zhang.<br>
-> <em>Expert Systems with Applications</em> <br>
+> <em>Expert Systems with Applications</em>, Volume: 270, Page: 126241, SCI Q1, IF=7.5, 2025. <br>
 
-> <b><a href="https://arxiv.org/abs/2304.10226" target="_blank">Domain Generalization for Mammographic Image Analysis with Contrastive Learning</a></b> <br>
+> <b><a href="https://www.sciencedirect.com/science/article/abs/pii/S0010482524015403" target="_blank">Domain Generalization for Mammographic Image Analysis with Contrastive Learning</a></b> <br>
 > Zheren Li, Zhiming Cui, Lichi Zhang, Sheng Wang, Chenjin Lei, Xi Ouyang, <b>Dongdong Chen</b>, Xiangyu Zhao, Yajia Gu, Zaiyi Liu, Chunling Liu, Dinggang Shen, Jie-Zhi Cheng.<br>
-> <em>Computers in Biology and Medicine</em> <br>
+> <em>Computers in Biology and Medicine</em>, Volume: 185, Page: 109455, SCI Q2, IF=7.0, 2025. <br>
 
 > <b><a href="https://ieeexplore.ieee.org/document/10735236" target="_blank">Exploring Multi-Connectivity and Subdivision Functions of Brain Network via Heterogeneous Graph Network for Cognitive Disorder Identification</a></b> <br>
 > <b>Dongdong Chen</b>, Mengjun Liu, Zhenrong Shen, Linlin Yao, Xiangyu Zhao, Zhiyun Song, Haolei Yuan, Qian Wang, Lichi Zhang.<br>
